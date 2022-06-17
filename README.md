@@ -99,8 +99,7 @@ pip install -r requirements.txt
 
 # Let’s practice
 
-Install conda using [Installing python on your system using conda (easy)](https://www.notion.so/Installing-python-on-your-system-using-conda-easy-40d75540a9b84de993d2d0a99b7d46f3)
-
+Install conda.
 In this example we are going to download a small program that says `hello42` from a public git repository. The program will not run if you missed a step!
 
 ## First run
