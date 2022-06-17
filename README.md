@@ -136,7 +136,7 @@ python main.py
 
 You should see:
 
-![ouput00](img/ouput00.png)
+![ouput00](img/output00.png)
 
 Now close the terminal. We will try subsequent runs.
 
@@ -157,7 +157,7 @@ python main.py
 
 You should see:
 
-![ouput00](img/ouput00.png)
+![ouput00](img/output00.png)
 
 # Updating the program
 
